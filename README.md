@@ -1,3 +1,5 @@
+# pavithra s
+# 212223220072
 # 2a_Stop_and_Wait_Protocol
 ## AIM 
 To write a python program to perform stop and wait protocol
